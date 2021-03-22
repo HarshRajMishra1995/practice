@@ -1,2 +1,2 @@
 # practice
-This repo is for practicing various git commands
+This project is for practicing various full stack tools.
